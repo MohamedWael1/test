@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "title": "majesty palm",
+    "price": 74,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-1.webp",
+      "/image-2.webp",
+      "/image-3.webp",
+      "/image-4.webp"
+    ],
+    "mainImage": "/image-1.webp"
+  },
+  {
+    "id": 2,
+    "title": "royal palm",
+    "price": 29,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-10.webp",
+      "/image-1.webp",
+      "/image-2.webp",
+      "/image-3.webp"
+    ],
+    "mainImage": "/image-10.webp"
+  },
+  {
+    "id": 3,
+    "title": "foxglove flower",
+    "price": 63,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-3.webp",
+      "/image-4.webp",
+      "/image-5.webp",
+      "/image-6.webp"
+    ],
+    "mainImage": "/image-3.webp"
+  },
+  {
+    "id": 4,
+    "title": "wild roses",
+    "price": 42,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-4.webp",
+      "/image-5.webp",
+      "/image-6.webp",
+      "/image-7.webp"
+    ],
+    "mainImage": "/image-4.webp"
+  },
+  {
+    "id": 5,
+    "title": "summer savory",
+    "price": 85,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-5.webp",
+      "/image-6.webp",
+      "/image-7.webp",
+      "/image-8.webp"
+    ],
+    "mainImage": "/image-5.webp"
+  },
+  {
+    "id": 6,
+    "title": "summer palm",
+    "price": 57,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-6.webp",
+      "/image-7.webp",
+      "/image-8.webp",
+      "/image-9.webp"
+    ],
+    "mainImage": "/image-6.webp"
+  },
+  {
+    "id": 7,
+    "title": "red palm",
+    "price": 28,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-7.webp",
+      "/image-8.webp",
+      "/image-9.webp",
+      "/image-10.webp"
+    ],
+    "mainImage": "/image-7.webp"
+  },
+  {
+    "id": 8,
+    "title": "sweet asylum",
+    "price": 36,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-8.webp",
+      "/image-9.webp",
+      "/image-10.webp",
+      "/image-1.webp"
+    ],
+    "mainImage": "/image-8.webp"
+  },
+  {
+    "id": 9,
+    "title": "sweet basil",
+    "price": 70,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-9.webp",
+      "/image-10.webp",
+      "/image-1.webp",
+      "/image-2.webp"
+    ],
+    "mainImage": "/image-9.webp"
+  },
+  {
+    "id": 10,
+    "title": "jasmine flower",
+    "price": 42,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-2.webp",
+      "/image-1.webp",
+      "/image-10.webp",
+      "/image-3.webp"
+    ],
+    "mainImage": "/image-2.webp"
+  },
+  {
+    "id": 11,
+    "title": "royal palm",
+    "price": 65,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-10.webp",
+      "/image-1.webp",
+      "/image-2.webp",
+      "/image-3.webp"
+    ],
+    "mainImage": "/image-10.webp"
+  },
+  {
+    "id": 12,
+    "title": "dynasty palm",
+    "price": 20,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-1.webp",
+      "/image-2.webp",
+      "/image-3.webp",
+      "/image-4.webp"
+    ],
+    "mainImage": "/image-1.webp"
+  },
+  {
+    "id": 13,
+    "title": "lity majesty palm",
+    "price": 15,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-2.webp",
+      "/image-3.webp",
+      "/image-4.webp",
+      "/image-5.webp"
+    ],
+    "mainImage": "/image-2.webp"
+  },
+  {
+    "id": 14,
+    "title": "rose flower",
+    "price": 95,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-3.webp",
+      "/image-4.webp",
+      "/image-5.webp",
+      "/image-6.webp"
+    ],
+    "mainImage": "/image-3.webp"
+  },
+  {
+    "id": 15,
+    "title": "wild roses",
+    "price": 85,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-4.webp",
+      "/image-5.webp",
+      "/image-6.webp",
+      "/image-7.webp"
+    ],
+    "mainImage": "/image-4.webp"
+  },
+  {
+    "id": 16,
+    "title": "summer savory",
+    "price": 80,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-5.webp",
+      "/image-6.webp",
+      "/image-7.webp",
+      "/image-8.webp"
+    ],
+    "mainImage": "/image-5.webp"
+  },
+  {
+    "id": 17,
+    "title": "summer palm",
+    "price": 78,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-6.webp",
+      "/image-7.webp",
+      "/image-8.webp",
+      "/image-9.webp"
+    ],
+    "mainImage": "/image-6.webp"
+  },
+  {
+    "id": 18,
+    "title": "scarlet sage",
+    "price": 26,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-7.webp",
+      "/image-8.webp",
+      "/image-9.webp",
+      "/image-10.webp"
+    ],
+    "mainImage": "/image-7.webp"
+  },
+  {
+    "id": 19,
+    "title": "sweet asylum",
+    "price": 88,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-8.webp",
+      "/image-9.webp",
+      "/image-10.webp",
+      "/image-1.webp"
+    ],
+    "mainImage": "/image-8.webp"
+  },
+  {
+    "id": 20,
+    "title": "sweet basil",
+    "price": 17,
+    "description": "Majesty Palm is a lovely houseplant that offers a tropical feel to any room. It is a slow-growing palm that is easy to care for and can thrive indoors for years with the right conditions. Majesty Palm is a great houseplant for beginners and experts alike.",
+
+    "gallery": [
+      "/image-9.webp",
+      "/image-10.webp",
+      "/image-1.webp",
+      "/image-2.webp"
+    ],
+    "mainImage": "/image-9.webp"
+  }
+]
